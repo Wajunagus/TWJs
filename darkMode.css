@@ -225,6 +225,10 @@ main h2 {
     text-align: center;
 }
 
+.h2-li { /*h2 lists*/
+    text-align: left;
+}
+
 main h3 {
     text-align: center;
 }
