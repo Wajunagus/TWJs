@@ -225,12 +225,16 @@ main h2 {
     text-align: center;
 }
 
-.h2-li { /*h2 lists*/
+.h2-li { /*h2 li*/
     text-align: left;
 }
 
 main h3 {
     text-align: center;
+}
+
+.h3-li { /*h3 li*/
+    text-align: left;
 }
 
 main > ol {
