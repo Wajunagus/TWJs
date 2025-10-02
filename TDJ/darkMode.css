@@ -148,6 +148,12 @@ img {
     margin-bottom: 5px;
     width: 100%;
 }
+.img5 {
+    width: 5%;
+}
+.img10 {
+    width: 10%;
+}
 .img25 {
     margin-left: auto;
     margin-right: auto;
