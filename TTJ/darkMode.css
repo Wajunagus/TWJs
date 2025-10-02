@@ -183,11 +183,14 @@ main {
 main h2 {
     text-align: center;
 }
-.h2-li { /*h2 lists*/
+.h2-li { /* h2 lists */
     text-align: left;
 }
 main h3 {
     text-align: center;
+}
+.h3-tal { /* text align left */
+    text-align: left;
 }
 main > ol {
     padding: 10px 50px;
