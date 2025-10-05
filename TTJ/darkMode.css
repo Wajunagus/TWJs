@@ -122,12 +122,8 @@ header li {
     /*margin-right: 5px;*/
     color: cornflowerblue;
 }
-.d-hlt { /*<div></div> highlight*/
-    padding: 5px 10px;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-.p-hlt { /*<p></p> highlight*/
+.hlt {
+    margin: 5px 0;
     padding: 5px 10px;
     background-color: rgb(31, 45, 65);
     width: fit-content;
