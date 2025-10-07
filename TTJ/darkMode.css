@@ -168,7 +168,7 @@ img {
 }
 .lh60 {
     line-height: 60%;
-    padding: 2.5px 0;
+    padding-bottom: 2px;
 }
 main {
     margin-left: auto;
