@@ -1,0 +1,182 @@
+.disc h4 { /*disclaimer*/
+    font-size: 12pt;
+}
+.disc p { /*disclaimer*/
+    font-size: 9pt;
+    color: #5D8736;
+    font-weight: bold;
+    margin: 5px 0;
+}
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 10px 25px;
+    width: 94%;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+}
+footer p {
+    margin: 5px 0;
+}
+.ft-hlt {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 5px;
+    background-color: rgb(31, 45, 65);
+    width: fit-content;
+}
+.gld {
+    color: goldenrod;
+}
+h6 {
+    color: mediumslateblue;
+    font-size: 12pt;
+}
+.hlt {
+    margin: 5px 0;
+    padding: 5px 10px;
+    background-color: rgb(31, 45, 65);
+    width: fit-content;
+}
+.s-hlt { /*<span></span> highlight*/
+    color: black;
+    background-color: azure;
+    padding: 0 5px;
+}
+main {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px 25px;
+    width: 94%;
+    background-color: black;
+    border-radius: 10px;
+    line-height: 1.6;
+}
+.h2-li { /* h2 lists */
+    text-align: left;
+}
+.h3-tal { /* text align left */
+    text-align: left;
+}
+main > ol {
+    padding: 10px 50px;
+    border-left: 3px solid red;
+    background-color: #222222;
+    width: fit-content;
+}.mth {
+    margin: 10px 0;
+    font-size: 24pt;
+    font-weight: bold;
+    color: rgb(165, 148, 249);
+    text-align: center;
+}
+.qte { /*quote*/
+    padding: 10px 25px;
+    background-color: rgb(31, 45, 65);
+    text-align: center;
+    border-left: 3px solid darkgoldenrod;
+    width: fit-content;
+}
+.qte p {
+    margin: 5px 0;
+}
+strong {
+    font-weight: normal;
+    color: darkkhaki;
+}
+ul.cust {
+    list-style: none;
+    padding: 10px 20px;
+    border-left: 3px solid red;
+    background-color: rgb(31, 45, 65);
+    width: fit-content;
+}
+ul.cust li {
+    margin: 5px 0;
+    padding: 0 20px;
+    position: relative;
+}
+ul.cust li::before {
+    content: "\2713"; /*Unicode for (✓)*/
+    position: absolute;
+    top: -2px;
+    left: 1px;
+    color: #4CAF50;
+    font-size: 12pt;
+}
+ul.custii {
+    list-style: none;
+    padding: 10px 40px;
+    border-left: 3px solid red;
+    background-color: rgb(31, 45, 65);
+}
+ul.custii li {
+    margin: 5px 0;
+    padding: 0 25px;
+    padding-bottom: 5px;
+    position: relative;
+}
+ul.custii li::before {
+    content: "\261E"; /*Unicode for (☞)*/
+    position: absolute;
+    top: -11px;
+    left: -5px;
+    color: yellowgreen;
+    font-size: 20pt;
+}
+ul.custiii {
+    list-style: none;
+    padding: 10px 40px;
+    border-left: 3px solid red;
+    background-color: rgb(31, 45, 65);
+}
+ul.custiii li {
+    margin: 5px 0;
+    padding: 0 25px;
+    position: relative;
+}
+ul.custiii li::before {
+    content: "\1F4CC"; /*Unicode for 📌(Pushpin)*/
+    position: absolute;
+    top: -4px;
+    left: -5px;
+    /*color: orange;*/
+    font-size: 18px;
+}
+/*
+https://www.w3schools.com/charsets
+💽 | Mini disk | &#x1F4BD;
+📸 | Camera with flash | &#x1F4F8;
+📺 | Television | &#x1F4FA;
+🎥 | Movie camera | &#x1F3A5;
+🎧 | Headphone | &#x1F3A7;
+💻 | PC | &#x1F4BB;
+📆 | Tear-off calendar | &#x1F4C6;
+⏰ | Alarm clock | &#x23F0;
+🎯 | Direct hit | &#x1F3AF;
+⏳ | Hourglass not done | &#x23F3;
+🎮 | Video game | &#x1F3AE;
+📈 | Upwards trend | &#x1F4C8;
+📉 | Downwards trend | &#x1F4C9;
+✍ | WRITING HAND | &#x270D;
+〈 | Left pointing angle bracket | &#x2329;
+〉 | Right pointing angle bracket | &#x232A;
+📜 | Scroll | &#x1F4DC;
+🕮 | Open book | &#x1F56E;
+⭳ | 2B73 | &#x2B73;
+💰 | Money bag | &#x1F4B0;
+‧ | HYPHENATION POINT | &#x2027;
+☑ | BALLOT BOX WITH CHECK | &#x2611;
+✅ | Check mark button | &#x2705;
+❌ | Cross mark | &#x274C;
+🔹 | Small blue diamond | &#x1F539;
+♙ | WHITE CHESS PAWN | &#x2659;
+♔ | WHITE CHESS KING | &#x2654;
+🔐 | Lock with key | &#x1F510;
+👀 | Eyes | &#x1F440;
+£ | GBP
+*/
