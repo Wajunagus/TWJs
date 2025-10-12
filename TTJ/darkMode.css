@@ -14,17 +14,6 @@ h6 {
     color: mediumslateblue;
     font-size: 12pt;
 }
-.hlt {
-    margin: 5px 0;
-    padding: 5px 10px;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-.s-hlt { /*<span></span> highlight*/
-    color: black;
-    background-color: azure;
-    padding: 0 5px;
-}
 main {
     margin-left: auto;
     margin-right: auto;
