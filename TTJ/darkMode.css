@@ -7,26 +7,6 @@
     font-weight: bold;
     margin: 5px 0;
 }
-footer {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    padding: 10px 25px;
-    width: 94%;
-    background-color: black;
-    border-radius: 10px;
-    text-align: center;
-}
-footer p {
-    margin: 5px 0;
-}
-.ft-hlt {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px 5px;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
 .gld {
     color: goldenrod;
 }
@@ -87,26 +67,6 @@ main > ol {
 strong {
     font-weight: normal;
     color: darkkhaki;
-}
-ul.cust {
-    list-style: none;
-    padding: 10px 20px;
-    border-left: 3px solid red;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-ul.cust li {
-    margin: 5px 0;
-    padding: 0 20px;
-    position: relative;
-}
-ul.cust li::before {
-    content: "\2713"; /*Unicode for (✓)*/
-    position: absolute;
-    top: -2px;
-    left: 1px;
-    color: #4CAF50;
-    font-size: 12pt;
 }
 ul.custii {
     list-style: none;
