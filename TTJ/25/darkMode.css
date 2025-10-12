@@ -23,6 +23,7 @@ body {
 footer {
     margin: auto;
     padding: 5px 10px;
+    color: darkgray;
     /*width: 100%;*/
     /*border-radius: 10px;*/
     text-align: center;
@@ -63,6 +64,19 @@ h5 {
 h6 {
     font-size: 12pt;
 }
+/*
+.hlt {
+    margin: 5px 0;
+    padding: 5px 10px;
+    background-color: rgb(31, 45, 65);
+    width: fit-content;
+}
+.s-hlt {
+    color: black;
+    background-color: azure;
+    padding: 0 5px;
+}
+*/
 header {
     /*
     margin-left: auto;
@@ -192,7 +206,7 @@ ul.non { /*none*/
     list-style-type: none;
     padding: 10px;
     border-left: 3px solid red;
-    background-color: #222222;
+    background-color: rgb(31, 45, 65);
     width: fit-content;
 }
 ul.non li {
