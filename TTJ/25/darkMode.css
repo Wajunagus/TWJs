@@ -185,6 +185,10 @@ main > ul {
     width: fit-content;
 }
 */
+strong {
+    font-weight: normal;
+    color: darkkhaki;
+}
 ul.cust {
     list-style: none;
     padding: 10px 20px;
