@@ -5,6 +5,9 @@ Communication | Collaboration | Networking | Productivity | Development
     https://discord.com/
         njugunaemmanuel
         "
+https://www.figma.com/login
+    njugunaemmanuel
+    "
     https://hub.docker.com/
         njugunaemmanuel | Wajunagus
         "
